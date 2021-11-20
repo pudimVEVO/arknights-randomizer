@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "arknights-randomizer-project": {
+      "hosting": {
+        "arknightsproject": [
+          "arknightsrandomizer"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "arknights-randomizer-project"
+  }
+}

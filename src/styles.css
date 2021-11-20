@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/arknights-randomizer-project.appspot.com/o/background.png?alt=media&token=3fd648fe-eb5e-4117-9cd1-9a232229593e');
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
